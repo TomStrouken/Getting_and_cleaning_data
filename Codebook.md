@@ -26,7 +26,7 @@ These 3 objects merged together form the last object, the merged dataset:
 The Merged_Data is subsetted selecting coloms subject, code and the measurements of the mean and std of each measurement. Out of this subsetting TidyData is created. 
 
 ## Descriptive activity names
-The numbers in the variable code the TidyData have been replaced by the names in the activities variable.
+The numbers in the variable called code, in the TidyData, have been replaced by the names in the activities variable.
 
 ## Labels
 The labels in the dataset have been renamed into appropriate labels.
