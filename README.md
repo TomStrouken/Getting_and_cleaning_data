@@ -1,5 +1,5 @@
 # Project
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, contains of the data preparation, and 5 steps of the UCI HAR Dataset to create a tidy dataset.
+This is the course project for the Getting and Cleaning Data Coursera course. The R script, Run_analysis.R, contains the code for data preparation, and 5 steps to create a tidy dataset out of the UCI HAR Dataset.
 
 # Steps
 The steps of the Run_analysis.R are:
