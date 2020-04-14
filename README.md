@@ -24,4 +24,4 @@ This repository contains, beside this README file, 3 other files:
 
 2) Run_analysis.R contains all the code for preparing and creating the tidy dataset.
 
-3) PreparedData.txt is the tidy dataset containing the tidy dataset.
+3) PreparedData.txt is the tidy dataset.
