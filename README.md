@@ -4,9 +4,9 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 # Steps
 The steps of the Run_analysis.R are:
 
-STEP 0: Download the data and assign the data frames
+Step 0: Download the data and assign the data frames
 
-STEP 1: Merge the training and the test sets 
+Step 1: Merge the training and the test sets 
 
 Step 2: Extract the measurements on the mean and sd
 
